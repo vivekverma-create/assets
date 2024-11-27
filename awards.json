@@ -1,5 +1,12 @@
 [
   {
+    "id": "8",
+    "icon": "./assets/globe.png",
+    "title": "EY Award",
+    "desc": " ",
+    "img": "https://raw.githubusercontent.com/vivekverma-create/images/main/Insta%20Award%205.png"
+  },
+  {
     "id": "7",
     "icon": "./assets/globe.png",
     "title": "Insta Award - 5",
